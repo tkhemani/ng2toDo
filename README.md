@@ -1,2 +1,3 @@
-From Scratch
-* git config credential.helper cache
+# Setup
+1. Git
+  * 
