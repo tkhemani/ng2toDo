@@ -16,7 +16,11 @@
 }
 ``` 
 - Typesctript Setup
- - sdf
+ - tsd:
+ - tsconfig: 
+ 
+- Project Setup
+ - jsConfig: 
  
 - VS Code Customizations
  - change theme: _ Ct+ Sh+ v_  + theme
