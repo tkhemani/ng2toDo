@@ -1,0 +1,26 @@
+{
+  "name": "ng2todo",
+  "version": "1.0.0",
+  "description": "toDo App for Angular 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tkhemani/ng2toDo.git"
+  },
+  "keywords": [
+    "angular2",
+    "toDo"
+  ],
+  "author": "tk",
+  "license": "oss",
+  "bugs": {
+    "url": "https://github.com/tkhemani/ng2toDo/issues"
+  },
+  "homepage": "https://github.com/tkhemani/ng2toDo",
+  "devDependencies": {
+    "jspm": "^0.16.0-beta.3"
+  }
+}
