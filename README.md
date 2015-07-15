@@ -29,10 +29,13 @@
 - VS Code Shortcuts
  - md preview: _ Ct+ Sh+ v_ 
 - Node Setup
- - `npm init`
-  
-  
+ - `npm init` 
+ 
  ---
+ 
+ - Angular 2 Snippets (TS)
+  - Create Component
+  `code here`
 
  
  
