@@ -24,7 +24,7 @@
  
 - VS Code Customizations
  - change theme: _ Ct+ Sh+ v_  + theme
- - Change theme CSS using `Help-> Toggle Dev Tools` and change sidebar, badge etc. to _ rgb(204,203,218)_ For Light Theme and #333 for Dark Theme. 
+ - Change theme CSS using `Help-> Toggle Dev Tools` and change sidebar, badge etc. to _ rgb(204,203,218) or 243,243,243_ For Light Theme and #333 for Dark Theme. 
   
 - VS Code Shortcuts
  - md preview: _ Ct+ Sh+ v_ 
